@@ -1,13 +1,6 @@
 {
   "todos": [
     {
-      "title": "cebula",
-      "deadline": "2023-12-21",
-      "completed": false,
-      "archived": false,
-      "id": 12
-    },
-    {
       "title": "asdad",
       "deadline": "2024-01-04",
       "completed": false,
@@ -15,17 +8,18 @@
       "id": 13
     },
     {
-      "title": "cvbcv",
-      "deadline": "2023-12-19",
-      "completed": true,
-      "archived": true,
+      "title": "Pierwsze zadanie",
+      "deadline": "2022-01-28",
+      "completed": false,
+      "archived": false,
       "id": 14
     },
     {
-      "title": "dfg",
-      "completed": true,
-      "archived": true,
-      "id": 16
+      "title": "Pierwsze zadanie",
+      "deadline": "2022-01-28",
+      "completed": false,
+      "archived": false,
+      "id": 15
     }
   ]
 }
